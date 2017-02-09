@@ -13,8 +13,8 @@ namespace DiaBot.Dialog
     // http://docs.botframework.com/sdkreference/csharp/dialogs.html
 
     // https://api.projectoxford.ai/luis/v1/application?id=b7cfffee-5554-446f-b4e9-92123a8db3c9&subscription-key=a1f9f6093899474090870b59cc362b7c
-    [LuisModel("b7cfffee-5554-446f-b4e9-92123a8db3c9",
-               "a1f9f6093899474090870b59cc362b7c")]
+    [LuisModel("XXXX",
+               "XXXX")]
 
     [Serializable]
     public class DiabotDialog : LuisDialog<object>
