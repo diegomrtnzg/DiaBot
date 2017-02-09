@@ -1,0 +1,39 @@
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Bot Application1.dll.config
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Bot Application1.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Bot Application1.pdb
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Autofac.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Chronic.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Newtonsoft.Json.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Net.Http.Formatting.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Web.Http.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Web.Http.WebHost.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Autofac.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\Newtonsoft.Json.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Net.Http.Formatting.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Web.Http.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\System.Web.Http.WebHost.xml
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\obj\Debug\DiaBot.csprojResolveAssemblyReference.cache
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\obj\Debug\Bot Application1.dll
+C:\Users\dimart\Source\Repos\DiaBot\DiaBot\obj\Debug\Bot Application1.pdb
